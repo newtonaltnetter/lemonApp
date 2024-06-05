@@ -1,0 +1,30 @@
+.specials {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .specials-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .special-item {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .special-item h3 {
+    font-size: 1.2em;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .special-item button {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
